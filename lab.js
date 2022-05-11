@@ -52,8 +52,8 @@ const favoriteThings = {
   and then another key named 'show' with the value being your favorite show.
 */
 //Code here
-dog.car = 'Lexus'
-dog.show = 'Scrubs'
+favoriteThings.car = 'Lexus'
+favoriteThings.show = 'Scrubs'
 
 /*
   Now use bracket or dot notation to change the value of the food key in your favoriteThings object to be 'Chicken Nuggets'
